@@ -1,0 +1,7 @@
+0, 3
+1, 8
+2, 18
+3, 47
+4, 105
+5, 274
+Sum Program was run 3 times, which means that there should be 6 numbers.

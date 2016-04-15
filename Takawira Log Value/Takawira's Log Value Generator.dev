@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Documents and Settings\Owner\Desktop\Dev\Dev-Cpp\MyProgs\Takawira Log Value\Takawira's Log Value Generator.dev
+Name=Takawira's Log Value Generator
+Use_gpp=1
+UnitCount=1
+ResFiles=C:\Documents and Settings\Owner\Desktop\Dev\Dev-Cpp\MyProgs\Takawira Log Value\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-C++\Bin\Mainicon.ico
+[Unit1]
+FileName=C:\Documents and Settings\Owner\Desktop\Dev\Dev-Cpp\MyProgs\Takawira Log Value\TakawiraLogValue.cpp
+FileTime=853110416
